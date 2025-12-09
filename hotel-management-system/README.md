@@ -40,8 +40,8 @@ npm run dev
 
 ## 👥 Equipe
 
-- Luana Monteiro Ferreira
 - Debora Almeida
+- Luana Monteiro Ferreira
 - Vitória Cardoso
 
 ## 📚 Documentação
@@ -65,3 +65,4 @@ hotel-management-system/
 └── frontend/
 
     └── package.json              ⚠️  VERIFICAR (pode estar incompleto)
+
