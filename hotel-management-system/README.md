@@ -40,7 +40,9 @@ npm run dev
 
 ## 👥 Equipe
 
-[Inserir nomes dos integrantes]
+- Luana Monteiro Ferreira
+- Debora Almeida
+- Vitória Cardoso
 
 ## 📚 Documentação
 
@@ -61,4 +63,5 @@ hotel-management-system/
 │   ├── .env.example              ❌ CRIAR
 │   └── package.json              ⚠️  CORRIGIR (nome errado)
 └── frontend/
+
     └── package.json              ⚠️  VERIFICAR (pode estar incompleto)
